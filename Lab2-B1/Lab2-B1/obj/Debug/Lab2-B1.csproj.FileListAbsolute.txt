@@ -1,0 +1,10 @@
+E:\4th year\2- .NET\Lab2\Lab2-B1\Lab2-B1\bin\Debug\Lab2-B1.exe.config
+E:\4th year\2- .NET\Lab2\Lab2-B1\Lab2-B1\bin\Debug\Lab2-B1.exe
+E:\4th year\2- .NET\Lab2\Lab2-B1\Lab2-B1\bin\Debug\Lab2-B1.pdb
+E:\4th year\2- .NET\Lab2\Lab2-B1\Lab2-B1\obj\Debug\Lab2-B1.csprojAssemblyReference.cache
+E:\4th year\2- .NET\Lab2\Lab2-B1\Lab2-B1\obj\Debug\Lab2_B1.frmStudent.resources
+E:\4th year\2- .NET\Lab2\Lab2-B1\Lab2-B1\obj\Debug\Lab2_B1.Properties.Resources.resources
+E:\4th year\2- .NET\Lab2\Lab2-B1\Lab2-B1\obj\Debug\Lab2-B1.csproj.GenerateResource.cache
+E:\4th year\2- .NET\Lab2\Lab2-B1\Lab2-B1\obj\Debug\Lab2-B1.csproj.CoreCompileInputs.cache
+E:\4th year\2- .NET\Lab2\Lab2-B1\Lab2-B1\obj\Debug\Lab2-B1.exe
+E:\4th year\2- .NET\Lab2\Lab2-B1\Lab2-B1\obj\Debug\Lab2-B1.pdb
